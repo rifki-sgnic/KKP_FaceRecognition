@@ -4,5 +4,5 @@ Dibuat untuk memenuhi KKP Universitas Budi Luhur
 
 Kelompok KKP : 
 - Dani Juhaeni
-- Fiska Fadhillah
+- Fiska Fadhilah
 - Muhammad Rifki
