@@ -1,8 +1,10 @@
 # KKP_FaceRecognition
 
-Dibuat untuk memenuhi KKP Universitas Budi Luhur
+Sistem Absensi dengan Face Recognition menggunakan CNN dengan metode Transfer Learning
+
+Dibuat untuk memenuhi KKP pada Universitas Budi Luhur
 
 Kelompok KKP : 
-- Dani Juhaeni
-- Fiska Fadhilah
-- Muhammad Rifki
+- Fiska Fadhilah (1811500378)
+- Dani Juhaeni (1811501269)
+- Muhammad Rifki (1811501327)
