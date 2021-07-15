@@ -1,4 +1,4 @@
-# KKP_FaceRecognition
+# KKP FaceRecognition
 
 Sistem Absensi dengan Face Recognition menggunakan CNN dengan metode Transfer Learning
 
